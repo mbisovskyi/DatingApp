@@ -18,3 +18,5 @@ Course Assets/StudentAssets/snippets/flyConnectionString.txt
 Course Assets/StudentAssets/snippets/heroku connection string.txt
 Course Assets/StudentAssets/snippets/member-tabs-css.txt
 Course Assets/StudentAssets/snippets/utc-datacontext-snippet.txt
+API/appsettings.Development.json
+
